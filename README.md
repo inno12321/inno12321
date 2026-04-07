@@ -50,7 +50,7 @@ This is where I build embedded systems from schematic through validated hardware
 | Project | What It Is | Stack |
 |---|---|---|
 | [Relay Diagnostic Instrument](https://github.com/innocentabraham/relay-diagnostic-instrument) | Two-channel automated relay characterization and endurance test system — 60 A / 100 V, hardware kill circuit, real-time V/I monitoring, SVG-exportable reports | ESP32, ESP-IDF, FreeRTOS, KiCad, Python |
-| [Guitar Pedal PCB](https://github.com/innocentabraham/guitar-pedal-pcb) | Custom analog effects pedal — schematic through 4-layer layout, fabrication, and functional validation | KiCad, Analog Design |
+| [AC Power Meter](https://github.com/inno12321/AC-Power_Meter) | Compact AC mains power monitor — Hall-effect current sensing, on-chip power computation, SPI output, designed as a drop-in metering module for PDU integration | KiCad, Allegro ACS37800 |
 | [FPGA ADC Capture](https://github.com/innocentabraham/fpga-adc-capture) | FPGA-driven high-speed ADC data capture with validated timing integrity | VHDL, C++, ADC |
 | [MRI DTI Processor](https://github.com/innocentabraham/mri-dti-processor) | Python toolchain for diffusion tensor computation from raw MRI datasets | Python, NumPy |
 
