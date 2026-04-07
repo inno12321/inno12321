@@ -1,5 +1,5 @@
 # Innocent Abraham
-### Hardware & Firmware Engineer — Salt Lake City, UT
+### Hardware & Firmware Engineer
 
 This is where I build embedded systems from schematic through validated hardware — teaching myself real-time firmware, mixed-signal PCB design, and electromechanical control one project at a time. I'm drawn to hardware that pushes what's possible and makes life better for people: medical instruments, wearables, acoustic hardware, high-density consumer electronics. The more a device can do, the more I want to build it — and I'm looking for the puzzle that pushes me the same way. Here are some of my current projects.
 
